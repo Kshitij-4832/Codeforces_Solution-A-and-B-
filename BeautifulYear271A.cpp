@@ -19,7 +19,6 @@ int main()
             cout << i << endl;
             break;
         }
-        st.clear();
     }
     return 0;
 }
