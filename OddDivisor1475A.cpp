@@ -20,11 +20,11 @@ int main()
             }
             if (n > 1)
             {
-                cout << "YES" << endl;
+                cout << "YES";
             }
             else
             {
-                cout << "NO" << endl;
+                cout << "NO";
             }
         }
     }
